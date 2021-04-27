@@ -1,0 +1,3 @@
+registry=https://pkgs.dev.azure.com/v-avilla01/_packaging/v-avilla01/npm/registry/ 
+                        
+always-auth=true
